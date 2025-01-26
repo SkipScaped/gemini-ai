@@ -279,4 +279,4 @@ Currently, the two kind models `Gemini 1.5` and `Gemini 2.0` support most images
 
 [MIT](https://www.apache.org/licenses/LICENSE-2.0)
 
-# B SkipScaped
+# By SkipScaped
