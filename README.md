@@ -75,23 +75,7 @@ A cross-platform application client that supports a permanent menu bar, doubling
 
 > Note: If you encounter problems during the use of the project, you can check the known problems and solutions of [FAQ](#FAQ).
 
-## TOC
 
-- [Features](#features)
-- [Roadmap](#️roadmap)
-- [Get Started](#get-started)
-  - [Updating Code](#updating-code)
-- [Environment Variables](#environment-variables)
-  - [Access Password](#access-password)
-  - [Custom model list](#️custom-model-list)
-- [Development](#development)
-  - [Requirements](#️requirements)
-- [Deployment](#deployment)
-  - [Docker (Recommended)](#docker-recommended)
-  - [Static Deployment](#static-deployment)
-- [FAQ](#faq)
-- [LICENSE](#license)
-- [Star History](#star-history)
 
 ## Features
 
@@ -295,6 +279,4 @@ Currently, the two kind models `Gemini 1.5` and `Gemini 2.0` support most images
 
 [MIT](https://www.apache.org/licenses/LICENSE-2.0)
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=u14app/gemini-next-chat&type=Date)](https://star-history.com/#u14app/gemini-next-chat&Date)
+# B SkipScaped
