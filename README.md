@@ -24,7 +24,6 @@ Deploy your private Gemini application for free with one click, supporting Gemin
 [![Windows][Windows-image]][download-url]
 [![Linux][Linux-image]][download-url]
 
-[Web App][web-url] / [Desktop App][download-url] / [Issues](https://github.com/u14app/gemini-next-chat/issues)
 
 [web-url]: https://gemini.u14.app/
 [download-url]: https://github.com/u14app/gemini-next-chat/releases
