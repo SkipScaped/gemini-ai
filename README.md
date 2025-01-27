@@ -4,7 +4,6 @@
 ![GitHub deployments](https://img.shields.io/github/deployments/SkipScaped/gemini-ai/Production)
 ![GitHub Release](https://img.shields.io/github/v/release/u14app/gemini-next-chat)
 ![Docker Image Size (tag)](https://img.shields.io/docker/image-size/xiangfa/talk-with-gemini/latest)
-![Docker Pulls](https://img.shields.io/docker/pulls/xiangfa/talk-with-gemini)
 ![GitHub License](https://img.shields.io/github/license/u14app/gemini-next-chat)
 
 Deploy your private Gemini application for free with one click, supporting Gemini 1.5 Pro, Gemini 1.5 Flash, Gemini Pro and Gemini Pro Vision models.
