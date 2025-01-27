@@ -318,7 +318,7 @@ function Setting({ open, hiddenTalkPanel, onClose }: SettingProps) {
                       (
                       <a
                         className="underline underline-offset-2"
-                        href="https://github.com/u14app/gemini-next-chat/releases"
+                        href="https://github.com/SkipScaped/gemini-ai/"
                         target="_blank"
                       >
                         {t('checkForUpdate')}
