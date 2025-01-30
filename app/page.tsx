@@ -860,10 +860,10 @@ export default function Home() {
       <div className="flex justify-between px-4 pb-2 pr-2 pt-10 max-md:pt-4 max-sm:pr-2 max-sm:pt-4">
         <div className="flex flex-row text-xl leading-8 text-red-400 max-sm:text-base">
           <MessageCircleHeart className="h-10 w-10 max-sm:h-8 max-sm:w-8" />
-          <div className="ml-2 font-bold leading-10 max-sm:ml-1 max-sm:leading-8">Gemini Next Chat</div>
+          <div className="ml-2 font-bold leading-10 max-sm:ml-1 max-sm:leading-8">Gemini Next Chat | By Aaliyan</div>
         </div>
         <div className="flex items-center gap-1">
-          <a href="https://github.com/u14app/gemini-next-chat" target="_blank">
+          <a href="https://github.com/SkipScaped/gemini-ai/" target="_blank">
             <Button className="h-8 w-8" title={t('github')} variant="ghost" size="icon">
               <Github className="h-5 w-5" />
             </Button>
