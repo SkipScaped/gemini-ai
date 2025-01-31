@@ -15,7 +15,7 @@ const APP_NAME = 'Gemini Next Chat'
 const APP_DEFAULT_TITLE = 'Gemini Next Chat'
 const APP_TITLE_TEMPLATE = '%s - PWA App'
 const APP_DESCRIPTION =
-  'Deploy your private Gemini application for free with one click, supporting Gemini 1.5 and Gemini 2.0 models. 一键免费部署您的私人 Gemini 应用, 支持 Gemini 1.5 和 Gemini 2.0 模型。'
+  'Multi purpose AI created by Aaliyan, use Gemini Next AI for free now.'
 
 export const metadata: Metadata = {
   applicationName: APP_NAME,
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     template: APP_TITLE_TEMPLATE,
   },
   description: APP_DESCRIPTION,
-  keywords: ['Gemini', 'Gemini Pro', 'Gemini 1.5', 'Gemini 2.0', 'Gemini Chat', 'AI', 'Chatgpt'],
+  keywords: ['Gemini', 'Gemini Pro', 'Gemini 1.5', 'Gemini 2.0', 'Gemini Chat', 'AI', 'Chatgpt', 'Gemini Next AI', 'Vercel Gemini'],
   icons: {
     icon: {
       type: 'image/svg+xml',
