@@ -367,7 +367,7 @@ function AppSidebar() {
     <Sidebar>
       <SidebarHeader>
         <div className="flex justify-between p-2 pb-0">
-          <span className="text-lg font-semibold text-red-400">Gemini Next Chat</span>
+          <span className="text-lg font-semibold text-blue-400">Gemini Next Chat</span>
           <Button
             className="h-8 w-8 [&_svg]:size-5"
             variant="ghost"
