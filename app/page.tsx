@@ -859,6 +859,7 @@ export default function Home() {
     <main className="mx-auto flex h-screen w-full max-w-screen-md flex-col justify-between overflow-hidden">
       <div className="flex justify-between px-4 pb-2 pr-2 pt-10 max-md:pt-4 max-sm:pr-2 max-sm:pt-4">
         <div className="flex flex-row text-xl leading-8 text-blue-400 max-sm:text-base">
+          <img src='./logo.svg' className="h-9 w-9 max-sm:h-8 max-sm:w-8"/>
           <div className="ml-2 font-bold leading-10 max-sm:ml-1 max-sm:leading-8">Gemini Next Chat | By Aaliyan</div>
         </div>
         <div className="flex items-center gap-1">
