@@ -15,7 +15,7 @@ const APP_NAME = 'Gemini Next Chat'
 const APP_DEFAULT_TITLE = 'Gemini Next Chat'
 const APP_TITLE_TEMPLATE = '%s - PWA App'
 const APP_DESCRIPTION =
-  'Multi purpose AI created by Aaliyan, use Gemini Next AI for free now.'
+  'Multi purpose AI created by Aaliyan, use Gemini Next AI for free now. Use Acess code huny6581'
 
 export const metadata: Metadata = {
   applicationName: APP_NAME,
