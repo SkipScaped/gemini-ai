@@ -1,12 +1,12 @@
 [package]
 name = "gemini-next-chat"
 version = "1.5.3"
-description = "Your private Gemini application."
-authors = ["Amery2010<amery@xiangfa.org>"]
+description = "Gemini Next AI, powerful multipurpose AI "
+authors = ["Aaliayn"]
 license = "MIT"
-repository = "https://github.com/u14app/gemini-next-chat"
+repository = "https://github.com/SkipScaped/gemini-ai"
 default-run = "gemini-next-chat"
-edition = "2021"
+edition = "2025"
 rust-version = "1.60"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
